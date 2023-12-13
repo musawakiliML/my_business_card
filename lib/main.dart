@@ -19,6 +19,13 @@ class MyBusinessApp extends StatelessWidget {
                   radius: 50.0,
                   backgroundImage: AssetImage("images/pic.jpg"),
                 ),
+                Text(
+                  "Musa Adamu Wakili",
+                  style: TextStyle(
+                    fontSize: 40.0,
+                    color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                  ),)
               ],
             ))));
   }
